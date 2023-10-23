@@ -1,0 +1,15 @@
+C:\Users\Willian\Desktop\Nova pasta\IF ELSE E OUTROS\bin\Debug\IF ELSE E OUTROS.exe.config
+C:\Users\Willian\Desktop\Nova pasta\IF ELSE E OUTROS\bin\Debug\IF ELSE E OUTROS.exe
+C:\Users\Willian\Desktop\Nova pasta\IF ELSE E OUTROS\bin\Debug\IF ELSE E OUTROS.pdb
+C:\Users\Willian\Desktop\Nova pasta\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Nova pasta\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Willian\Desktop\Nova pasta\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.exe
+C:\Users\Willian\Desktop\Nova pasta\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.pdb
+C:\Users\Will\Desktop\AULAS\c#\IF ELSE E OUTROS\bin\Debug\IF ELSE E OUTROS.exe.config
+C:\Users\Will\Desktop\AULAS\c#\IF ELSE E OUTROS\bin\Debug\IF ELSE E OUTROS.exe
+C:\Users\Will\Desktop\AULAS\c#\IF ELSE E OUTROS\bin\Debug\IF ELSE E OUTROS.pdb
+C:\Users\Will\Desktop\AULAS\c#\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.csproj.AssemblyReference.cache
+C:\Users\Will\Desktop\AULAS\c#\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\AULAS\c#\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.exe
+C:\Users\Will\Desktop\AULAS\c#\IF ELSE E OUTROS\obj\Debug\IF ELSE E OUTROS.pdb
