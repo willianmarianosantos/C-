@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "STRUCT COM ARRAY/1.0.0": {
+        "runtime": {
+          "STRUCT COM ARRAY.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STRUCT COM ARRAY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

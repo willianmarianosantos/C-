@@ -1,0 +1,29 @@
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.AssemblyInfoInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.AssemblyInfo.cs
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.exe
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.deps.json
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.runtimeconfig.json
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.dll
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.pdb
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.dll
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\refint\STRUCT COM ARRAY.dll
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.pdb
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.genruntimeconfig.cache
+C:\Users\Willian\Desktop\Nova pasta\STRUCT COM ARRAY\obj\Debug\net6.0\ref\STRUCT COM ARRAY.dll
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.exe
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.deps.json
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.runtimeconfig.json
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.dll
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\bin\Debug\net6.0\STRUCT COM ARRAY.pdb
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.AssemblyInfo.cs
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.dll
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\refint\STRUCT COM ARRAY.dll
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.pdb
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\STRUCT COM ARRAY.genruntimeconfig.cache
+C:\Users\Will\Desktop\AULAS\c#\STRUCT COM ARRAY\obj\Debug\net6.0\ref\STRUCT COM ARRAY.dll
