@@ -1,0 +1,15 @@
+C:\Users\Willian\Desktop\Nova pasta\get set completo\bin\Debug\net6.0\get set completo.exe
+C:\Users\Willian\Desktop\Nova pasta\get set completo\bin\Debug\net6.0\get set completo.deps.json
+C:\Users\Willian\Desktop\Nova pasta\get set completo\bin\Debug\net6.0\get set completo.runtimeconfig.json
+C:\Users\Willian\Desktop\Nova pasta\get set completo\bin\Debug\net6.0\get set completo.dll
+C:\Users\Willian\Desktop\Nova pasta\get set completo\bin\Debug\net6.0\get set completo.pdb
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\get set completo.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\get set completo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\get set completo.AssemblyInfoInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\get set completo.AssemblyInfo.cs
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\get set completo.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\get set completo.dll
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\refint\get set completo.dll
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\get set completo.pdb
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\get set completo.genruntimeconfig.cache
+C:\Users\Willian\Desktop\Nova pasta\get set completo\obj\Debug\net6.0\ref\get set completo.dll
