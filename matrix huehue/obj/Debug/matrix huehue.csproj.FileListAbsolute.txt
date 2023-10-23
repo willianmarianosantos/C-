@@ -1,0 +1,15 @@
+C:\Users\Willian\Desktop\Nova pasta\matrix huehue\bin\Debug\matrix huehue.exe.config
+C:\Users\Willian\Desktop\Nova pasta\matrix huehue\bin\Debug\matrix huehue.exe
+C:\Users\Willian\Desktop\Nova pasta\matrix huehue\bin\Debug\matrix huehue.pdb
+C:\Users\Willian\Desktop\Nova pasta\matrix huehue\obj\Debug\matrix huehue.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Nova pasta\matrix huehue\obj\Debug\matrix huehue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Willian\Desktop\Nova pasta\matrix huehue\obj\Debug\matrix huehue.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\matrix huehue\obj\Debug\matrix huehue.exe
+C:\Users\Willian\Desktop\Nova pasta\matrix huehue\obj\Debug\matrix huehue.pdb
+C:\Users\Will\Desktop\AULAS\c#\matrix huehue\bin\Debug\matrix huehue.exe.config
+C:\Users\Will\Desktop\AULAS\c#\matrix huehue\bin\Debug\matrix huehue.exe
+C:\Users\Will\Desktop\AULAS\c#\matrix huehue\bin\Debug\matrix huehue.pdb
+C:\Users\Will\Desktop\AULAS\c#\matrix huehue\obj\Debug\matrix huehue.csproj.AssemblyReference.cache
+C:\Users\Will\Desktop\AULAS\c#\matrix huehue\obj\Debug\matrix huehue.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\AULAS\c#\matrix huehue\obj\Debug\matrix huehue.exe
+C:\Users\Will\Desktop\AULAS\c#\matrix huehue\obj\Debug\matrix huehue.pdb
