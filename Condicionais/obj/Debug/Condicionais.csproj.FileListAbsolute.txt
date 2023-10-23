@@ -1,0 +1,8 @@
+C:\Users\Willian\Desktop\Nova pasta\Condicionais\bin\Debug\Condicionais.exe.config
+C:\Users\Willian\Desktop\Nova pasta\Condicionais\bin\Debug\Condicionais.exe
+C:\Users\Willian\Desktop\Nova pasta\Condicionais\bin\Debug\Condicionais.pdb
+C:\Users\Willian\Desktop\Nova pasta\Condicionais\obj\Debug\Condicionais.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Nova pasta\Condicionais\obj\Debug\Condicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\Willian\Desktop\Nova pasta\Condicionais\obj\Debug\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\Condicionais\obj\Debug\Condicionais.exe
+C:\Users\Willian\Desktop\Nova pasta\Condicionais\obj\Debug\Condicionais.pdb
