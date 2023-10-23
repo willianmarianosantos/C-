@@ -1,0 +1,15 @@
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\delegates.csproj.AssemblyReference.cache
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\delegates.AssemblyInfoInputs.cache
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\delegates.AssemblyInfo.cs
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\delegates.csproj.CoreCompileInputs.cache
+D:\area de trabalho\aquiwill\delegates\bin\Debug\net6.0\delegates.exe
+D:\area de trabalho\aquiwill\delegates\bin\Debug\net6.0\delegates.deps.json
+D:\area de trabalho\aquiwill\delegates\bin\Debug\net6.0\delegates.runtimeconfig.json
+D:\area de trabalho\aquiwill\delegates\bin\Debug\net6.0\delegates.dll
+D:\area de trabalho\aquiwill\delegates\bin\Debug\net6.0\delegates.pdb
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\delegates.dll
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\refint\delegates.dll
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\delegates.pdb
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\delegates.genruntimeconfig.cache
+D:\area de trabalho\aquiwill\delegates\obj\Debug\net6.0\ref\delegates.dll

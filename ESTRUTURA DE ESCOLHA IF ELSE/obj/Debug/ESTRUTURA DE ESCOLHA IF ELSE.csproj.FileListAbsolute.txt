@@ -1,0 +1,8 @@
+C:\Users\Willian\Desktop\Nova pasta\ESTRUTURA DE ESCOLHA IF ELSE\obj\Debug\ESTRUTURA DE ESCOLHA IF ELSE.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Nova pasta\ESTRUTURA DE ESCOLHA IF ELSE\obj\Debug\ESTRUTURA DE ESCOLHA IF ELSE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Willian\Desktop\Nova pasta\ESTRUTURA DE ESCOLHA IF ELSE\obj\Debug\ESTRUTURA DE ESCOLHA IF ELSE.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\ESTRUTURA DE ESCOLHA IF ELSE\bin\Debug\ESTRUTURA DE ESCOLHA IF ELSE.exe.config
+C:\Users\Willian\Desktop\Nova pasta\ESTRUTURA DE ESCOLHA IF ELSE\bin\Debug\ESTRUTURA DE ESCOLHA IF ELSE.exe
+C:\Users\Willian\Desktop\Nova pasta\ESTRUTURA DE ESCOLHA IF ELSE\bin\Debug\ESTRUTURA DE ESCOLHA IF ELSE.pdb
+C:\Users\Willian\Desktop\Nova pasta\ESTRUTURA DE ESCOLHA IF ELSE\obj\Debug\ESTRUTURA DE ESCOLHA IF ELSE.exe
+C:\Users\Willian\Desktop\Nova pasta\ESTRUTURA DE ESCOLHA IF ELSE\obj\Debug\ESTRUTURA DE ESCOLHA IF ELSE.pdb

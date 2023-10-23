@@ -1,0 +1,29 @@
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\abestração.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\abestração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\abestração.AssemblyInfoInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\abestração.AssemblyInfo.cs
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\abestração.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\abestração\bin\Debug\net6.0\abestração.exe
+C:\Users\Willian\Desktop\Nova pasta\abestração\bin\Debug\net6.0\abestração.deps.json
+C:\Users\Willian\Desktop\Nova pasta\abestração\bin\Debug\net6.0\abestração.runtimeconfig.json
+C:\Users\Willian\Desktop\Nova pasta\abestração\bin\Debug\net6.0\abestração.dll
+C:\Users\Willian\Desktop\Nova pasta\abestração\bin\Debug\net6.0\abestração.pdb
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\abestração.dll
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\refint\abestração.dll
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\abestração.pdb
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\abestração.genruntimeconfig.cache
+C:\Users\Willian\Desktop\Nova pasta\abestração\obj\Debug\net6.0\ref\abestração.dll
+C:\Users\Will\Desktop\AULAS\c#\abestração\bin\Debug\net6.0\abestração.exe
+C:\Users\Will\Desktop\AULAS\c#\abestração\bin\Debug\net6.0\abestração.deps.json
+C:\Users\Will\Desktop\AULAS\c#\abestração\bin\Debug\net6.0\abestração.runtimeconfig.json
+C:\Users\Will\Desktop\AULAS\c#\abestração\bin\Debug\net6.0\abestração.dll
+C:\Users\Will\Desktop\AULAS\c#\abestração\bin\Debug\net6.0\abestração.pdb
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\abestração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\abestração.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\abestração.AssemblyInfo.cs
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\abestração.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\abestração.dll
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\refint\abestração.dll
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\abestração.pdb
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\abestração.genruntimeconfig.cache
+C:\Users\Will\Desktop\AULAS\c#\abestração\obj\Debug\net6.0\ref\abestração.dll

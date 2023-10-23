@@ -1,0 +1,7 @@
+C:\Users\Willian\Desktop\Nova pasta\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+C:\Users\Willian\Desktop\Nova pasta\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\Willian\Desktop\Nova pasta\enum\bin\Debug\@enum.exe.config
+C:\Users\Willian\Desktop\Nova pasta\enum\bin\Debug\@enum.exe
+C:\Users\Willian\Desktop\Nova pasta\enum\bin\Debug\@enum.pdb
+C:\Users\Willian\Desktop\Nova pasta\enum\obj\Debug\@enum.exe
+C:\Users\Willian\Desktop\Nova pasta\enum\obj\Debug\@enum.pdb
